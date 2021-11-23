@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756110699384",
+    "project_id": "videocall-app-8a44a",
+    "storage_bucket": "videocall-app-8a44a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756110699384:android:4909706f90ad745a47b68d",
+        "android_client_info": {
+          "package_name": "com.miniproject.vidossage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756110699384-l4679v43djf1vtnp6pu2ife2jo89qsr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvxMTAHyVGGZVvnMi2wqrdLrgsyfqsS_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756110699384-l4679v43djf1vtnp6pu2ife2jo89qsr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
